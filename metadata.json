@@ -1,0 +1,5 @@
+{
+  "name": "SimLog Pro",
+  "description": "A comprehensive flight simulator management tool featuring a simplified instructor kiosk for session logging and issue reporting, coupled with a powerful owner dashboard for maintenance tracking and analytics.",
+  "requestFramePermissions": []
+}
